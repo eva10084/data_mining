@@ -1,0 +1,2 @@
+mind数据集放在./dataset/MIND下，使用的是test数据。（Microsoft 资讯推荐:数据集）
+email-Eu-core直接放在./下即可（SNAP(Stanford Large Network Dataset Collection)）
